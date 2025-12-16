@@ -1,3 +1,6 @@
 # Cards_Personagens_React_-_Tailwind
 
 Projeto desenvolvido como parte de estudos em React e Tailwind, acompanhando uma aula prática, com foco na compreensão de componentização, props e renderização de listas.
+
+
+Aula seguida: https://www.youtube.com/watch?v=F1rWdCDEixs&t=239s
